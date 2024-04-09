@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c46c39-4603-4223-8214-93fb84319c79" name="Changes" comment="learning">
-      <change afterPath="$PROJECT_DIR$/Assets/Assets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/assets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/src/boy_down_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/src/boy_down_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/src/boy_left_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/src/boy_left_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/src/boy_right_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/src/boy_right_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/src/boy_up_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/src/boy_up_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712600147526</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="learning">
+      <option name="closed" value="true" />
+      <created>1712687527366</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712687527366</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
