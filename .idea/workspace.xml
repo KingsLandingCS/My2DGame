@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86c46c39-4603-4223-8214-93fb84319c79" name="Changes" comment="learning">
-      <change afterPath="$PROJECT_DIR$/Assets/src/earth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/src/grass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/src/sand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/src/tile/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/src/tile/TileManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/src/tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/src/wall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/src/water.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/My2DGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/My2DGame.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-    </list>
+    <list default="true" id="86c46c39-4603-4223-8214-93fb84319c79" name="Changes" comment="learning" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712699811753</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="learning">
+      <option name="closed" value="true" />
+      <created>1712938432408</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712938432408</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
