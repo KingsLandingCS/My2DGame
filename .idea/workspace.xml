@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c46c39-4603-4223-8214-93fb84319c79" name="Changes" comment="learning">
+      <change afterPath="$PROJECT_DIR$/Assets/src/earth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/src/grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/src/sand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/src/tile/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/src/tile/TileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/src/tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/src/wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/src/water.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My2DGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/My2DGame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KingsLandingCS&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KingsLandingCS/My2DGame.git&quot;,
+    &quot;accountId&quot;: &quot;1700b2c2-3a30-4770-8839-f6edf93a734a&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -36,37 +57,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/zubair/IdeaProjects/My2DGame&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/zubair/IdeaProjects/My2DGame/src/main/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.overengineer.inlineproblems.settings.SettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/zubair/IdeaProjects/My2DGame/Assets/src/tiiles",
+    "onboarding.tips.debug.path": "/home/zubair/IdeaProjects/My2DGame/src/main/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.overengineer.inlineproblems.settings.SettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assets/src/tiiles" />
+      <recent name="$PROJECT_DIR$/Assets/tiles" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Assets/src" />
+      <recent name="$PROJECT_DIR$/Images/tiles" />
+      <recent name="$PROJECT_DIR$/tiles" />
     </key>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-78a6f59c" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -109,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712687527366</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="learning">
+      <option name="closed" value="true" />
+      <created>1712699811753</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712699811753</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
